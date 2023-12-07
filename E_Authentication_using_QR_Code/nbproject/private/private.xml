@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/choug/Documents/NetBeansProjects/JPJA2101/SOURCE%20CODE/E_Authentication_using_QR_Code/src/java/DBconnection/SQLconnection.java</file>
+            <file>file:/C:/Users/choug/Documents/NetBeansProjects/JPJA2101/SOURCE%20CODE/E_Authentication_using_QR_Code/src/java/Action/QR_codeGen.java</file>
+            <file>file:/C:/Users/choug/Documents/NetBeansProjects/JPJA2101/SOURCE%20CODE/E_Authentication_using_QR_Code/src/java/Action/Admin.java</file>
+            <file>file:/C:/Users/choug/Documents/NetBeansProjects/JPJA2101/SOURCE%20CODE/E_Authentication_using_QR_Code/web/Staff_login.jsp</file>
+            <file>file:/C:/Users/choug/Documents/NetBeansProjects/JPJA2101/SOURCE%20CODE/E_Authentication_using_QR_Code/src/java/Action/Staff.java</file>
+            <file>file:/C:/Users/choug/Documents/NetBeansProjects/JPJA2101/SOURCE%20CODE/E_Authentication_using_QR_Code/web/index.jsp</file>
+            <file>file:/C:/Users/choug/Documents/NetBeansProjects/JPJA2101/SOURCE%20CODE/E_Authentication_using_QR_Code/web/student_signup.jsp</file>
+            <file>file:/C:/Users/choug/Documents/NetBeansProjects/JPJA2101/SOURCE%20CODE/E_Authentication_using_QR_Code/src/java/Action/QRCodeExtract.java</file>
+            <file>file:/C:/Users/choug/Documents/NetBeansProjects/JPJA2101/SOURCE%20CODE/E_Authentication_using_QR_Code/src/java/Action/Student_register.java</file>
+            <file>file:/C:/Users/choug/Documents/NetBeansProjects/JPJA2101/SOURCE%20CODE/E_Authentication_using_QR_Code/web/staff_signup.jsp</file>
+            <file>file:/C:/Users/choug/Documents/NetBeansProjects/JPJA2101/SOURCE%20CODE/E_Authentication_using_QR_Code/web/Staff_Home.jsp</file>
+            <file>file:/C:/Users/choug/Documents/NetBeansProjects/JPJA2101/SOURCE%20CODE/E_Authentication_using_QR_Code/src/java/Networks/Mail.java</file>
+            <file>file:/C:/Users/choug/Documents/NetBeansProjects/JPJA2101/SOURCE%20CODE/E_Authentication_using_QR_Code/web/student_verify.jsp</file>
+            <file>file:/C:/Users/choug/Documents/NetBeansProjects/JPJA2101/SOURCE%20CODE/E_Authentication_using_QR_Code/web/admin_login.jsp</file>
+        </group>
+    </open-files>
+</project-private>
